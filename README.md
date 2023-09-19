@@ -1,1 +1,1 @@
-"# python_course_hw" 
+# python_course_hw
